@@ -1,0 +1,1 @@
+k_means和GMM聚类方法实现，其中GMM可采用k_means结果作为初值.
